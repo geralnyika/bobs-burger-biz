@@ -19,7 +19,7 @@ Analyzed burger performance across specials and categories.
 
 Visualized top-performing burgers and laggards.
 
-Insight: Puns do sell! Burgers with witty names performed ~20% better on average.
+**Insight:** Puns do sell! Burgers with witty names performed ~20% better on average.
 
 
 
@@ -35,7 +35,7 @@ Calculated mean, median, quartiles for visit frequency.
 
 Segment-level analysis (families, singles, regulars, casuals).
 
-Insight: Families and regulars are Bob’s core — visits are consistent, but attracting younger singles could unlock growth.
+**Insight:** Families and regulars are Bob’s core — visits are consistent, but attracting younger singles could unlock growth.
 
 
 
@@ -51,7 +51,7 @@ Fixed mismatched profit margin calculations.
 
 Visualized profitability by category and burger.
 
-Insight: Some items are underpriced (low margin) despite popularity — opportunity to adjust pricing without losing customers.
+**Insight:** Some items are underpriced (low margin) despite popularity — opportunity to adjust pricing without losing customers.
 
 
 
