@@ -2,7 +2,7 @@
 The fictional *Bob's Burgers* restaurant is treated as a real business in this data science project, which uses data analysis to provide answers to the questions that would truly determine whether Bob makes a profit.
 
 ## Why This Project
-Portfolio datasets are typically generic. With three business questions, three analyses, and three practical recommendations—structured like a true consulting engagement. This project applies true analytical rigor to a creative brief.
+Portfolio datasets are typically generic. With three business questions, three analyses, and three practical recommendations, structured like a true consulting engagement, this project applies true analytical rigor to a creative brief.
 
 ## Analyses
 
